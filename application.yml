@@ -1,0 +1,8 @@
+app:
+  name: "Your Name"
+  regNo: "22BAC10036"   # <-- your regNo (even → Q2)
+  email: "your-email@example.com"
+
+hiring:
+  base-url: "https://bfhldevapigw.healthrx.co.in/hiring"
+  add-bearer-on-401: true
